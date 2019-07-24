@@ -149,6 +149,11 @@ h1, h2, h3, h4 {
     color: #949494;
 }
 
+.p-classic_nav__channel_header p-classic_nav__model_header{
+    background: #222;
+    color: #949494;
+}
+
 .p-channel_sidebar__channel, .p-channel_sidebar__channel:link, .p-channel_sidebar__channel:visited, .p-channel_sidebar__channel:hover, .p-channel_sidebar__link, .p-channel_sidebar__link:link, .p-channel_sidebar__link:visited, .p-channel_sidebar__link:hover {
     color: rgba(230, 230, 230, 0.8) !important;
 }

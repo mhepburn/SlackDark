@@ -2888,6 +2888,11 @@ ts-message .reply_bar:hover {
     border-bottom: 1px solid #222;
 }
 
+.p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider:before {
+    background: #222;
+    border-bottom: 1px solid #222;
+}
+
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar), .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider {
     background: #222;
 }
@@ -8967,4 +8972,8 @@ span.c-message__sender.c-message_kit__sender {
 
 .p-file_details__share_channel, .p-file_details__name {
     color: inherit;
+}
+
+.p-message_input_field .c-texty_input--multi_line .c-texty_input .ql-container {
+    background: #222;
 }

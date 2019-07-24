@@ -150,13 +150,11 @@ h1, h2, h3, h4 {
 }
 
 .p-classic_nav__channel_header{
-    background: #CACACA;
-    color: #949494;
+    background: #CACACA;    
 }
 
 .p-classic_nav__right_header{
     background: #CACACA;
-    color: #949494;
 }
 
 .p-channel_sidebar__channel, .p-channel_sidebar__channel:link, .p-channel_sidebar__channel:visited, .p-channel_sidebar__channel:hover, .p-channel_sidebar__link, .p-channel_sidebar__link:link, .p-channel_sidebar__link:visited, .p-channel_sidebar__link:hover {
